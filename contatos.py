@@ -7,7 +7,7 @@ import time
 
 contatos = {} # Dicionario para armazenar os contatos 
 
-# Funcoes para adicionar, remover, listar e editar contatos
+# Funcao para exibir as opcoes ao usuario
 def exibir_menu():
     print("Sistema de contatos")
     print("1 - Adicionar contato")
